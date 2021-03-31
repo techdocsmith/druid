@@ -74,6 +74,8 @@ The supported compression formats for native batch ingestion are `bz2`, `gz`, `x
 
 - [`static-cloudfiles`](../development/extensions-contrib/cloudfiles.md#firehose)
 
+### Implementation considerations
+
 You may want to consider the below things:
 
 - You may want to control the amount of input data each worker task processes. This can be
