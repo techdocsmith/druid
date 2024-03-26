@@ -44,7 +44,7 @@ other time ranges proceed as normal. Read-only queries also proceed as normal, u
 data.
 
 :::info
- Druid does not support single-record updates by primary key.
+ Druid does not support single-record updates by primary key. See [Update data](../tutorials/tutorial-update-data.md) for strategies to update data using time ranges.
 :::
 
 ## Reindex
