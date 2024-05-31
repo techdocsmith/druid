@@ -359,7 +359,7 @@
             <dependency>
                 <groupId>org.skife.config</groupId>
                 <artifactId>config-magic</artifactId>
-                <version>0.9</version>
+                <version>0.22</version>
                 <exclusions>
                     <exclusion>
                         <groupId>org.slf4j</groupId>
