@@ -141,6 +141,7 @@ InputSources
 Integer.MAX_VALUE
 IntelliJ
 ioConfig
+IoT
 Istio
 JBOD
 JDBC
@@ -357,6 +358,8 @@ https
 idempotency
 i.e.
 influxdb
+influencer
+influencers
 ingestions
 ingestionSpec
 injective
